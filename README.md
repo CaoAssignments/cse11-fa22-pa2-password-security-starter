@@ -11,11 +11,15 @@ Programming Assignment 2 is an introduction to loops and Strings in Java. You wi
 
 ## Overview
 
-- Password Security [Gradescope, 100 points]
-    - Implementation [95 points]
+- Survey [Google Form, 1 point]
+- Password Security [Gradescope, 99 points]
+    - Implementation [94 points]
     - Style [5 points]
 
-## Password Security [100 Points]
+## Survey [1 Point]
+Please fill out [this survey](https://forms.gle/5ns85iFofKvwAZtc7) regarding your experience in this course. Your specific answers will not affect your grade in any way. You will receive credit as long as you complete it.
+
+## Password Security [99 Points]
 As the world becomes more and more digital, many of us have an increasing number of accounts and passwords to manage. Having strong and unique passwords is an important step to protect our accounts.
 
 In this programming assignment, we will evaluate the strength of passwords using a simplified model which will only calculate a password's strength based on the presence of uppercase letters, lowercase letters, numbers, and symbols. You can learn more about how password strengths are assessed in the real world [here](https://www.uic.edu/apps/strong-password/).
@@ -26,7 +30,7 @@ Write a program called `PasswordSecurity` that
 - Evaluates the strength of the password
 - Suggests a stronger password if their password is not strong enough
 
-### Implementation [95 Points]
+### Implementation [94 Points]
 
 Your file should be named as `PasswordSecurity.java` and should contain a single class `PasswordSecurity` which has only 1 method: `main`.
 
